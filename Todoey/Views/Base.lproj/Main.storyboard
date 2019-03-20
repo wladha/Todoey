@@ -86,9 +86,6 @@
                                 <action selector="addButtonPressed:" destination="4G1-2M-7gP" id="Hi6-QI-jzF"/>
                             </connections>
                         </barButtonItem>
-                        <connections>
-                            <outlet property="titleView" destination="jaQ-bM-VRw" id="XLh-BK-DqQ"/>
-                        </connections>
                     </navigationItem>
                 </tableViewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="uq3-Eu-mhO" userLabel="First Responder" sceneMemberID="firstResponder"/>
